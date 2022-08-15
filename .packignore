@@ -1,0 +1,14 @@
+.git
+.gitattributes
+.gitignore
+.minecraft/coremods
+.minecraft/icon.png
+.minecraft/logs
+.minecraft/patchouli_books
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/shaderpacks
+.minecraft/texturepacks
+Matchbox.code-workspace
+natives

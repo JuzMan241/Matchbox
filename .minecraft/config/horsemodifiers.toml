@@ -1,0 +1,9 @@
+#The number of modifiers that you can add to the horse.
+maxModifierCount = 10
+#The value that each Health should add to the horse.
+healthyCarrotIncreaseValue = 2.0
+#The value that each Health should add to the horse.
+jumpCarrotIncreaseValue = 0.1
+#The value that each Health should add to the horse.
+flashCarrotIncreaseValue = 0.1
+
