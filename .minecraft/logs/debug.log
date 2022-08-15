@@ -10579,3 +10579,5 @@ Bug fixes:
 [15Aug2022 15:06:27.070] [Render thread/DEBUG] [mixin/]: Mixing client.CustomizeSkinScreenMixin from valhelsia_core.mixins.json into net.minecraft.client.gui.screen.CustomizeSkinScreen
 [15Aug2022 15:06:27.070] [Render thread/DEBUG] [mixin/]: Renaming synthetic method lambda$init$0(Lnet/valhelsia/valhelsia_core/client/CosmeticsManager;Ljava/util/UUID;Lnet/minecraft/client/Minecraft;Lnet/minecraft/client/gui/widget/button/Button;)V to md974118$lambda$init$0$3 in valhelsia_core.mixins.json:client.CustomizeSkinScreenMixin
 [15Aug2022 15:06:29.072] [Render thread/DEBUG] [mixin/]: Mixing core.accessor.CharacterRendererAccessor from cavesandcliffs.mixins.json into net.minecraft.client.gui.FontRenderer$CharacterRenderer
+[15Aug2022 15:10:31.598] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[15Aug2022 15:10:31.609] [Render thread/DEBUG] [mixin/]: Mixing blocks.StructureBlockScreen from repurposed_structures.mixins.json into net.minecraft.client.gui.screen.EditStructureScreen

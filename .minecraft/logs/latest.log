@@ -1496,3 +1496,4 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 [15Aug2022 15:06:27.016] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
 [15Aug2022 15:06:27.036] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
 [15Aug2022 15:06:27.039] [Render thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.forgeLightPipelineEnabled=false
+[15Aug2022 15:10:31.598] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
