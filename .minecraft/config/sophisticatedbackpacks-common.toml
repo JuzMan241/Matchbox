@@ -2,7 +2,7 @@
 #Common Settings
 [common]
 	#Disable / enable any items here (disables their recipes)
-	enabledItems = ["backpack:true", "iron_backpack:true", "gold_backpack:true", "diamond_backpack:true", "netherite_backpack:true", "pickup_upgrade:true", "advanced_pickup_upgrade:true", "filter_upgrade:true", "advanced_filter_upgrade:true", "magnet_upgrade:true", "advanced_magnet_upgrade:true", "feeding_upgrade:true", "advanced_feeding_upgrade:true", "compacting_upgrade:true", "advanced_compacting_upgrade:true", "void_upgrade:true", "advanced_void_upgrade:true", "restock_upgrade:true", "advanced_restock_upgrade:true", "deposit_upgrade:true", "advanced_deposit_upgrade:true", "refill_upgrade:true", "inception_upgrade:true", "everlasting_upgrade:true", "smelting_upgrade:true", "auto_smelting_upgrade:true", "smoking_upgrade:true", "auto_smoking_upgrade:true", "blasting_upgrade:true", "auto_blasting_upgrade:true", "crafting_upgrade:true", "stonecutter_upgrade:true", "stack_upgrade_tier_1:true", "stack_upgrade_tier_2:true", "stack_upgrade_tier_3:true", "stack_upgrade_tier_4:true", "jukebox_upgrade:true", "tool_swapper_upgrade:true", "advanced_tool_swapper_upgrade:true", "tank_upgrade:true", "battery_upgrade:true", "pump_upgrade:true", "advanced_pump_upgrade:true", "xp_pump_upgrade:true", "upgrade_base:true"]
+	enabledItems = ["backpack:true", "iron_backpack:true", "gold_backpack:true", "diamond_backpack:true", "netherite_backpack:true", "pickup_upgrade:true", "advanced_pickup_upgrade:true", "filter_upgrade:true", "advanced_filter_upgrade:true", "magnet_upgrade:true", "advanced_magnet_upgrade:true", "feeding_upgrade:true", "advanced_feeding_upgrade:true", "compacting_upgrade:true", "advanced_compacting_upgrade:true", "void_upgrade:true", "advanced_void_upgrade:true", "restock_upgrade:true", "advanced_restock_upgrade:true", "deposit_upgrade:true", "advanced_deposit_upgrade:true", "refill_upgrade:true", "inception_upgrade:false", "everlasting_upgrade:true", "smelting_upgrade:false", "auto_smelting_upgrade:false", "smoking_upgrade:false", "auto_smoking_upgrade:false", "blasting_upgrade:false", "auto_blasting_upgrade:false", "crafting_upgrade:true", "stonecutter_upgrade:false", "stack_upgrade_tier_1:true", "stack_upgrade_tier_2:true", "stack_upgrade_tier_3:true", "stack_upgrade_tier_4:true", "jukebox_upgrade:true", "tool_swapper_upgrade:true", "advanced_tool_swapper_upgrade:true", "tank_upgrade:true", "battery_upgrade:true", "pump_upgrade:true", "advanced_pump_upgrade:true", "xp_pump_upgrade:true", "upgrade_base:true"]
 	#List of items that are not allowed to be put in backpacks - e.g. "minecraft:shulker_box"
 	disallowedItems = []
 	#Turns on/off loot added to various vanilla chest loot tables
@@ -14,7 +14,7 @@
 	[common.leatherBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 27
+		inventorySlotCount = 9
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
 		upgradeSlotCount = 1
@@ -23,7 +23,7 @@
 	[common.ironBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 54
+		inventorySlotCount = 18
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
 		upgradeSlotCount = 2
@@ -32,7 +32,7 @@
 	[common.goldBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 81
+		inventorySlotCount = 27
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
 		upgradeSlotCount = 3
@@ -41,7 +41,7 @@
 	[common.diamondBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 108
+		inventorySlotCount = 45
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
 		upgradeSlotCount = 5
@@ -50,7 +50,7 @@
 	[common.netheriteBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 120
+		inventorySlotCount = 63
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
 		upgradeSlotCount = 7
