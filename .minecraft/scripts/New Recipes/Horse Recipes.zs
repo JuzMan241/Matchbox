@@ -44,3 +44,9 @@ craftingTable.addShaped("diamond_horse_armor", <item:minecraft:diamond_horse_arm
 [<item:minecraft:air>,<item:minecraft:air>,<item:minecraft:diamond>],
 [<item:minecraft:diamond>,<item:minecraft:leather_horse_armor>,<item:minecraft:diamond>],
 [<item:minecraft:diamond>,<item:minecraft:diamond>,<item:minecraft:diamond>]]); 
+
+# Netherite Horse Armor
+craftingTable.addShaped("netherite_horse_armor", <item:netheritehorsearmor:netherite_horse_armor>, [
+[<item:minecraft:air>,<item:minecraft:air>,<item:minecraft:netherite_ingot>],
+[<item:minecraft:netherite_ingot>,<item:minecraft:leather_horse_armor>,<item:minecraft:netherite_ingot>],
+[<item:minecraft:netherite_ingot>,<item:minecraft:netherite_ingot>,<item:minecraft:netherite_ingot>]]); 
