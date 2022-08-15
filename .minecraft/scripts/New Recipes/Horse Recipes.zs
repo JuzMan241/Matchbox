@@ -1,7 +1,22 @@
 # Saddle Recipe
-craftingTable.addShaped("saddle_recip", <item:minecraft:saddle>, [
+craftingTable.addShaped("saddle_recip1", <item:minecraft:saddle>, [
 [<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
 [<item:minecraft:leather>,<item:farmersdelight:rope>,<item:minecraft:leather>],
+[<item:minecraft:tripwire_hook>,<item:minecraft:air>,<item:minecraft:tripwire_hook>]]);
+
+craftingTable.addShaped("saddle_recip2", <item:minecraft:saddle>, [
+[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+[<item:minecraft:leather>,<item:supplementaries:rope>,<item:minecraft:leather>],
+[<item:minecraft:tripwire_hook>,<item:minecraft:air>,<item:minecraft:tripwire_hook>]]);
+
+craftingTable.addShaped("saddle_recip3", <item:minecraft:saddle>, [
+[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+[<item:minecraft:leather>,<item:darkerdepths:rope>,<item:minecraft:leather>],
+[<item:minecraft:tripwire_hook>,<item:minecraft:air>,<item:minecraft:tripwire_hook>]]);
+
+craftingTable.addShaped("saddle_recip4", <item:minecraft:saddle>, [
+[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+[<item:minecraft:leather>,<item:quark:rope>,<item:minecraft:leather>],
 [<item:minecraft:tripwire_hook>,<item:minecraft:air>,<item:minecraft:tripwire_hook>]]);
 
 # Leather Horse Armor
