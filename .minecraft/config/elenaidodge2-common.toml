@@ -35,7 +35,7 @@
 	#Range: > 1
 	regen_rate = 80
 	#Whether to enable 'Half Feathers'. Instead of weight values rounding down, they will instead show as a half feather. These can be used if the 'Cost' value is set to an odd number.
-	half_feathers = false
+	half_feathers = true
 
 [weight]
 	#The weight of each item of Armor. This Overrides the automatically generated values. Each 'Steel Feather' is equivalent to a weight of 2. Insert values as such: modid:itemname=value,modid:itemname=value. Any item with a weight over 24 will not show its weight as a tooltip. Idea Credit: SandwichHorror
