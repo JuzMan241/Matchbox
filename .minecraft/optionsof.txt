@@ -4,7 +4,7 @@ ofMipmapType:0
 ofOcclusionFancy:false
 ofSmoothFps:true
 ofSmoothWorld:true
-ofAoLevel:0.0
+ofAoLevel:1.0
 ofClouds:0
 ofCloudsHeight:0.0
 ofTrees:0
@@ -58,7 +58,7 @@ ofRenderRegions:false
 ofSmartAnimations:true
 ofDynamicFov:false
 ofAlternateBlocks:true
-ofDynamicLights:1
+ofDynamicLights:2
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
