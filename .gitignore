@@ -6,7 +6,6 @@
 .minecraft/patchouli_data.json
 .minecraft/coremods
 natives/
-.minecraft/config/
 .minecraft/usernamecache.json
 .minecraft/usercache.json
 .minecraft/optionsshaders.txt
