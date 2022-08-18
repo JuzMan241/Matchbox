@@ -93,5 +93,5 @@
 	#1 = part I panoramic view. 
 	#2 = part II panoramic view.
 	#Range: 0 ~ 2
-	PanoramaValue = 1
+	PanoramaValue = 0
 
