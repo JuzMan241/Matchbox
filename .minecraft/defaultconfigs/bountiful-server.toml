@@ -24,7 +24,7 @@
 	#likelihood of multiple boards showing up in a single village. This is due to how
 	#Minecraft generates villages in newer versions of Minecraft.
 	#Range: 1 ~ 16
-	villageGenRate = 8
+	villageGenRate = 4
 
 [bounties]
 	#A global multiplier for the time needed to complete a bounty.
