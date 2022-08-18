@@ -5,3 +5,5 @@ Matchbox is a modpack all about Exploration, Enchantment, and Enhancment! The mo
 The pack comes with a number of disabled serverside and clientside optional mods, all of which can be enabled optionally for an improved experience in singleplayer and multiplater. 
 
 Disabled serverside mods, such as Yung's Better Caves and Repurposed Structures will only affect your game while playing in singleplayer, where as the plethora of disabled clientside mods will add quality of life changes or make the game look better. They are usually pretty explanatory, but a quick search will likely inform you of what the mod is all about and if you want to enable it.
+
+To enable any mod, simply delete the end of the file extension ".disabled" and leave just ".jar", or use MultiMC to toggle mods on and off.
