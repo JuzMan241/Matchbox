@@ -1,22 +1,7 @@
 # Saddle Recipe
-craftingTable.addShaped("saddle_recip1", <item:minecraft:saddle>, [
+craftingTable.addShaped("saddle_recipe", <item:minecraft:saddle>, [
 [<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
-[<item:minecraft:leather>,<item:farmersdelight:rope>,<item:minecraft:leather>],
-[<item:minecraft:tripwire_hook>,<item:minecraft:air>,<item:minecraft:tripwire_hook>]]);
-
-craftingTable.addShaped("saddle_recip2", <item:minecraft:saddle>, [
-[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
-[<item:minecraft:leather>,<item:supplementaries:rope>,<item:minecraft:leather>],
-[<item:minecraft:tripwire_hook>,<item:minecraft:air>,<item:minecraft:tripwire_hook>]]);
-
-craftingTable.addShaped("saddle_recip3", <item:minecraft:saddle>, [
-[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
-[<item:minecraft:leather>,<item:darkerdepths:rope>,<item:minecraft:leather>],
-[<item:minecraft:tripwire_hook>,<item:minecraft:air>,<item:minecraft:tripwire_hook>]]);
-
-craftingTable.addShaped("saddle_recip4", <item:minecraft:saddle>, [
-[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
-[<item:minecraft:leather>,<item:quark:rope>,<item:minecraft:leather>],
+[<item:minecraft:leather>,<tag:items:matchbox:ropes>,<item:minecraft:leather>],
 [<item:minecraft:tripwire_hook>,<item:minecraft:air>,<item:minecraft:tripwire_hook>]]);
 
 # Leather Horse Armor
@@ -24,7 +9,7 @@ craftingTable.removeRecipe(<item:minecraft:leather_horse_armor>);
 
 craftingTable.addShaped("leather_horse_armor", <item:minecraft:leather_horse_armor>, [
 [<item:minecraft:air>,<item:minecraft:air>,<item:minecraft:leather>],
-[<item:farmersdelight:rope>,<item:quark:white_quilted_wool>,<item:farmersdelight:rope>],
+[<tag:items:matchbox:ropes>,<item:quark:white_quilted_wool>,<tag:items:matchbox:ropes>],
 [<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>]]);
 
 # Iron Horse Armor
