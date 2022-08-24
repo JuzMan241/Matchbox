@@ -280,13 +280,13 @@
 		[Features.SpawnBonuses.HealthMultiplier]
 			#Normal Mode
 			#Range: 0.0 ~ 10.0
-			normal = 0.5
+			normal = 0.25
 			#Expert Mode
 			#Range: 0.0 ~ 10.0
-			expert = 0.5
+			expert = 0.25
 			#Master Mode
 			#Range: 0.0 ~ 10.0
-			master = 0.5
+			master = 0.25
 
 		#Extra damage multiplier.
 		[Features.SpawnBonuses.DamageMultiplier]
