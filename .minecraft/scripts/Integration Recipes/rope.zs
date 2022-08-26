@@ -9,7 +9,7 @@ var air = <item:minecraft:air>;
 // Fix farmers delight ropes
 craftingTable.removeRecipe(<item:farmersdelight:rope>);
 furnace.removeRecipe(<item:farmersdelight:rope>);
-craftingTable.addShaped("matchbox_rope_from_straw", <item:farmersdelight:rope> * 3, [
+craftingTable.addShaped("mb_rope_from_straw", <item:farmersdelight:rope> * 3, [
     [straw,straw],
     [straw,straw],
     [straw,straw]
@@ -18,14 +18,14 @@ craftingTable.addShaped("matchbox_rope_from_straw", <item:farmersdelight:rope> *
 // Fix safety net recip
 craftingTable.removeRecipe(<item:farmersdelight:safety_net>);
 furnace.removeRecipe(<item:farmersdelight:safety_net>);
-craftingTable.addShaped("net_from_all_ropes", <item:farmersdelight:safety_net>, [
+craftingTable.addShaped("mb_net_from_all_ropes", <item:farmersdelight:safety_net>, [
     [rope,rope],
     [rope,rope]
 ]);
 
 // Adjust lead recips
 craftingTable.removeRecipe(<item:minecraft:lead>);
-craftingTable.addShaped("matchbox_lead", <item:minecraft:lead> * 4, [
+craftingTable.addShaped("mb_lead", <item:minecraft:lead> * 4, [
     [rope,rope,air],
     [rope,<item:minecraft:slime_ball>,air],
     [air,air,rope]
