@@ -26,7 +26,7 @@
 	#Enable to generate dead floor coral in dead coral cave biomes.
 	"Generate Dead Floor Coral" = true
 	#Enable to generate patches (varying heights of slabs and snow) in cave biomes.
-	"Generate Patches" = true
+	"Generate Patches" = false
 	#Enable to generate puddles in lush, mossy muddy, dead coral cave biomes
 	"Generate Puddles" = false
 	#Enable to generate floor coral in coral cave biomes.
