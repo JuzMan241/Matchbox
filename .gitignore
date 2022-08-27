@@ -10,3 +10,8 @@ natives/
 .minecraft/usercache.json
 .minecraft/optionsshaders.txt
 .minecraft/texturepacks
+.minecraft/openloader/.cache
+.minecraft/config
+.minecraft/icon.png
+instance.cfg
+.minecraft/crash-reports/
