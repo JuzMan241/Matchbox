@@ -3,21 +3,21 @@
 
 	[world.biomes]
 
-		[world.biomes.rainforest]
-			"Rainforest weight" = 0.5
-			"Rainforest Mountains weight" = 0.5
-			"Rainforest Plateau weight" = 0.05
-			"Sparse Rainforest Plateau weight" = 0.05
-			"Rainforest Basin weight" = 0.5
-			"Sparse Rainforest Basin weight" = 0.05
-
 		[world.biomes.dunes]
-			"Dunes weight" = 2.5
-			"Dunes Hills weight" = 0.25
-			"Flourishing Dunes weight" = 0.25
 			"Rocky Dunes weight" = 2
-			"Rocky Dunes Hills weight" = 0.2
-			"Petrified Dunes weight" = 0.2
+			"Rocky Dunes Hills weight" = 0
+			"Dunes Hills weight" = 0
+			"Flourishing Dunes weight" = 0
+			"Petrified Dunes weight" = 0
+			"Dunes weight" = 5
+
+		[world.biomes.rainforest]
+			"Rainforest weight" = 1
+			"Rainforest Plateau weight" = 0
+			"Rainforest Basin weight" = 1
+			"Sparse Rainforest Basin weight" = 0
+			"Rainforest Mountains weight" = 1
+			"Sparse Rainforest Plateau weight" = 0
 
 		#These biomes are experimental and not ready for use in gameplay
 		[world.biomes.experimental]
