@@ -24,12 +24,12 @@
 	#likelihood of multiple boards showing up in a single village. This is due to how
 	#Minecraft generates villages in newer versions of Minecraft.
 	#Range: 1 ~ 16
-	villageGenRate = 4
+	villageGenRate = 3
 
 [bounties]
 	#A global multiplier for the time needed to complete a bounty.
 	#Range: 1.0 ~ 10000.0
-	timeMultiplier = 7.5
+	timeMultiplier = 10
 	#If true, you can fulfill bounties by right clicking on a bounty board.
 	#If false, you can right click anywhere with a bounty.
 	cashInAtBoard = true
