@@ -19,7 +19,7 @@
 		biome_categories = ["plains", "forest", "extreme_hills", "taiga"]
 		#Spawn Chance [default: 0.8]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.6
+		spawn_chance = 0.4
 
 	[structures.castle]
 		#Biomes the structure can NOT generate in
@@ -39,7 +39,7 @@
 		biome_categories = ["plains", "forest", "taiga"]
 		#Spawn Chance [default: 0.5]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.4
+		spawn_chance = 0.25
 
 	[structures.player_house]
 		#Biomes the structure can NOT generate in
@@ -59,7 +59,7 @@
 		biome_categories = ["plains", "forest", "extreme_hills", "taiga"]
 		#Spawn Chance [default: 0.7]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.5
+		spawn_chance = 0.35
 
 	[structures.forge]
 		#Biomes the structure can NOT generate in
@@ -79,7 +79,7 @@
 		biome_categories = ["plains", "forest", "extreme_hills", "taiga"]
 		#Spawn Chance [default: 0.7]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.5
+		spawn_chance = 0.35
 
 	[structures.big_tree]
 		#Biomes the structure can NOT generate in
@@ -99,7 +99,7 @@
 		biome_categories = ["plains", "forest"]
 		#Spawn Chance [default: 0.7]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.5
+		spawn_chance = 0.35
 
 	[structures.desert_house]
 		#Biomes the structure can NOT generate in
@@ -119,7 +119,7 @@
 		biome_categories = ["desert"]
 		#Spawn Chance [default: 0.7]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.5
+		spawn_chance = 0.35
 
 	[structures.global]
 		#Biomes in which Structures can NOT generate in
@@ -148,7 +148,7 @@
 		biome_categories = ["plains", "forest", "taiga"]
 		#Spawn Chance [default: 0.6]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.4
+		spawn_chance = 0.3
 
 	[structures.witch_hut]
 		#Biomes the structure can NOT generate in
@@ -168,7 +168,7 @@
 		biome_categories = ["swamp"]
 		#Spawn Chance [default: 0.85]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.55
+		spawn_chance = 0.425
 
 	[structures.spawner_dungeon]
 		#Biomes the structure can NOT generate in
@@ -188,5 +188,5 @@
 		biome_categories = ["plains", "forest", "extreme_hills", "taiga", "desert", "mesa", "savanna", "jungle", "icy", "swamp", "mushroom"]
 		#Spawn Chance [default: 0.7]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.5
+		spawn_chance = 0.35
 
